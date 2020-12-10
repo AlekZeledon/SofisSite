@@ -1,20 +1,26 @@
-@import url(https://fonts.googleapis.com/css?family=Titillium+Web);
-@import url(https://fonts.googleapis.com/css?family=Ubuntu+Condensed);
-
-body {
-  text-align: center;
-  padding: 5px;
-  margin: 0;
-  font-size: 16px;
-  background: #505050 url(images/21829_anime_scenery.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+*{
+  margin:0;
+  padding:0;
 }
 
+body {
+  margin:0;
+  font-family: 'Lobster', cursive;
+  font-family: 'Lobster Two', cursive;
+  font-size: 17px;
+  color:#fff0b3;
+  line-height:1.6;
+  background-size: ;
+}
 
-.main-header {
+#showcase {
+  background-image:url('../img/background1.jpg');
+  height:100vh;
+  background-size:cover;
+  background-position:center;
+}
+
+.main-heade {
   display: block;
   border-style: solid;
   border-color: #ffffff;
@@ -23,15 +29,15 @@ body {
   padding-bottom: 10px;
 }
 
-.main-header h1 {
+.main-heade h1 {
   text-align: center;
   text-shadow: -1px 1px 20px #282828;
-  font-family: 'Ubuntu Condensed', sans-serif;
+  font-family: 'Lobster Two', cursive;
   font-size: 90px;
   color: #ffffff;
 }
 
-.main-header h2 {
+.main-heade h2 {
   text-align: center;
   margin: 2rem;
   font-family: ;
@@ -49,11 +55,6 @@ body {
   margin-right: -5px;
 }
 
-.main-header .new-quote-button {
-  padding: 20px;
-  margin: 0 auto;
-  text-align: center;
-}
 
 .main-content .quote-placeholder {
   padding-top: 20px;
