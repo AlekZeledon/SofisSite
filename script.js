@@ -300,19 +300,19 @@ $(document).ready(function() {
 
     random_quote[49] = {
       "quotenumber": 50,
-      "quotesentence": "I love you to the moon and back",
+      "quotesentence": "I love you to the moon and back.",
       "quotecharacter": "- Alek",
     }
 
     random_quote[50] = {
       "quotenumber": 51,
-      "quotesentence": "I wanna just cuddle you forever. I'll hug you tightly and never let you go",
+      "quotesentence": "I wanna just cuddle you forever. I'll hug you tightly and never let you go.",
       "quotecharacter": "- Alek, 2015",
     }
 
     random_quote[51] = {
       "quotenumber": 52,
-      "quotesentence": "I think your voice sounds adorable",
+      "quotesentence": "I think your voice sounds adorable.",
       "quotecharacter": "- Alek, 2014",
     }
 
