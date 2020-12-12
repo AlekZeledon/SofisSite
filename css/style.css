@@ -3,12 +3,17 @@
   padding:0;
 }
 
+button {
+  position:;
+
+}
+
 body {
   margin:0;
   font-size: 25px;
   color:#fff0b3;
   line-height:1.6;
-  background-size: ;
+  text-align: center;
 }
 
 #showcase {
@@ -26,7 +31,7 @@ body {
 }
 
 #showcase h1 {
-  font-size: 50px;
+  font-size: 60px;
   line-height:7;
 }
 
