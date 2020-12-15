@@ -32,7 +32,26 @@ body {
 
 #showcase h1 {
   font-size: 60px;
-  line-height:7;
+  color:#ffffff;
+  line-height:5;
+  text-decoration: underline;
+  text-shadow: -3px 2px 15px #282828;
+}
+
+.btn {
+  display:inline-block;
+  border: none;
+  padding: 6px 12px;
+  margin-top: 20px;
+  margin-bottom: 0;
+  font-family: 'Lobster', cursive;
+  font-family: 'Lobster Two', cursive;
+  font-size: 18px;
+  font-weight: normal;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 20px;
+  background-color: #fff0b3;
 }
 
 #section-a{
@@ -65,10 +84,10 @@ body {
   text-shadow: -3px 2px 15px #282828;
 }
 
-.main-content .author,
-.main-content .title {
+body .author,
+body .title {
   color: #ffffff;
   font-style: italic;
-  font-size: 15px;
+  font-size: 20px;
   text-shadow: -1px 1px 5px #282828;
 }
