@@ -54,12 +54,16 @@ body {
   background-color: #fff0b3;
 }
 
-#section-a{
+#section-a {
   padding:20px;
   font-size:20px;
   background:#3973ac;
   color:#fff;
   text-align: center;
+}
+
+#section-a h2 {
+  text-shadow: -1px 1px 5px #282828;
 }
 
 .main-content {
