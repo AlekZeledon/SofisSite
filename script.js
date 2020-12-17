@@ -832,40 +832,6 @@ $(document).ready(function() {
       "quotecharacter": "- Fleetwood Mac",
     }
 
-    random_quote[139] = {
-      "quotenumber": 140,
-      "quotesentence": "",
-      "quotecharacter": "- ",
-    }
-
-    random_quote[140] = {
-      "quotenumber": 141,
-      "quotesentence": "",
-      "quotecharacter": "- ",
-    }
-
-    random_quote[141] = {
-      "quotenumber": 142,
-      "quotesentence": "",
-      "quotecharacter": "- ",
-    }
-
-    random_quote[142] = {
-      "quotenumber": 143,
-      "quotesentence": "",
-      "quotecharacter": "- ",
-    }
-
-    random_quote[143] = {
-      "quotenumber": 144,
-      "quotesentence": "",
-      "quotecharacter": "- ",
-    }
-
-
-
-
-
 
 
 
