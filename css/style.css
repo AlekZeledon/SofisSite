@@ -3,11 +3,6 @@
   padding:0;
 }
 
-button {
-  position:;
-
-}
-
 body {
   margin:0;
   font-size: 25px;
@@ -35,6 +30,7 @@ body {
   color:#ffffff;
   line-height:5;
   text-decoration: underline;
+  text-decoration-color: #ff5757;
   text-shadow: -3px 2px 15px #282828;
 }
 
@@ -64,6 +60,9 @@ body {
 
 #section-a h2 {
   text-shadow: -1px 1px 5px #282828;
+  font-family: 'Lobster', cursive;
+  font-family: 'Lobster Two', cursive;
+  color:#fff0b3;
 }
 
 .main-content {
